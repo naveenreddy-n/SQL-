@@ -9,7 +9,6 @@ This repository showcases my SQL certifications earned from HackerRank, demonstr
 - **Earned on:** November 24, 2024
 - **Credential ID:** 2E21838A21C9
 - [View Certificate](https://www.hackerrank.com/certificates/2e21838a21c9)
-- ![SQL Basic](./sql_basic certificate.pdf)
 
 ---
 
